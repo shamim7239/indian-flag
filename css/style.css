@@ -1,0 +1,24 @@
+#top{
+    width: 400px;
+    height: 100px;
+    background: #ff9933;
+}
+#bottom{
+    width: 400px;
+    height: 100px;
+    background: #138808;
+}
+#center{
+    width: 400px;
+    height: 100px;
+    background: #ffffff;
+}
+.ashokacakra img{
+    width: 100px;
+    height: 100px;
+}
+.ashokacakra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
